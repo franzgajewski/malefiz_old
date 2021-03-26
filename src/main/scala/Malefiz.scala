@@ -1,4 +1,5 @@
 object Malefiz {
-  println("Malefiz")
-  
+  def main(args: Array[String]): Unit = {
+    println("Hello, World! :)")
+  }
 }
