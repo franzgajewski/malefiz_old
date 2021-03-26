@@ -1,0 +1,1 @@
+development of the game "malefiz" for a student project
