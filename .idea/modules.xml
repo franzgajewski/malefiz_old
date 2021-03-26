@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/malefiz.iml" filepath="$PROJECT_DIR$/.idea/modules/malefiz.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/malefiz-build.iml" filepath="$PROJECT_DIR$/.idea/modules/malefiz-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project.malefiz-build.iml" filepath="$PROJECT_DIR$/.idea/modules/project.malefiz-build.iml" />
     </modules>
   </component>
 </project>
