@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/malefiz.iml" filepath="$PROJECT_DIR$/.idea/modules/malefiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/malefiz-build.iml" filepath="$PROJECT_DIR$/.idea/modules/malefiz-build.iml" />
     </modules>
   </component>
 </project>
