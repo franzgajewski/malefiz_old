@@ -29,6 +29,7 @@ print(row02.mkString(" "))
 print(row01.mkString(" "))
 */
 
+//test
 
 val spielbrett =  List(row14, row13, row12, row11, row10, row09, row08, row07, row06, row05, row04, row03, row02, row01)
 
